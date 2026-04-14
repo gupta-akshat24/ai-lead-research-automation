@@ -30,21 +30,22 @@ Automatically researches any Indian company and generates a personalized   Bank 
 
 ## ⚙️ How It Works
 ---
+
 [Company Name Input]
 
 ↓
 
 [13 Google Searches via Serper]
 
-Company Overview
-Recent News
-CFO/Decision Maker
-Export/Import Data
-Employee Count
-Financial Data
-Current Bank
-GST Volume
-Expansion Plans
+Company Overview,
+Recent News,
+CFO/Decision Maker,
+Export/Import Data,
+Employee Count,
+Financial Data,
+Current Bank,
+GST Volume,
+Expansion Plans,
 Loan Needs
 
 
