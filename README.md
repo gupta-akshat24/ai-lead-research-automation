@@ -44,8 +44,11 @@ Current Bank
 GST Volume
 Expansion Plans
 Loan Needs
+
 Dealer Network
+
 ↓
+
 [OpenAI Analyzes All Data]
 ↓
 [Generates Personalized Email]
