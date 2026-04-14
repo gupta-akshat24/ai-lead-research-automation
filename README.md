@@ -1,5 +1,5 @@
 # ai-lead-research-automation
-# AI automation that researches  Indian companies and generates  personalized   Bank outreach  emails using Make.com, OpenAI  and Serper API
+# AI automation that researches  Indian companies and generates  personalized   Bank outreach  emails using Make.com, OpenAI  and Serper API 
 
 # AI Lead Research Automation
 ### Bank Corporate Banking
