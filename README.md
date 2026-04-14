@@ -67,8 +67,6 @@ Dealer Network
 "Protecting Arvind's Export Margins — 
 Forex Solutions from   Bank  "
 
-**Email Generated:**
-[Paste your best email output here]
 
 ---
 
