@@ -1,0 +1,11 @@
+{
+  "module": "Company Overview",
+  "url": "https://google.serper.dev/search",
+  "method": "POST",
+  "authentication": "None",
+  "header_name": "X-API-KEY",
+  "header_value": "YOUR_SERPER_KEY_HERE",
+  "body_content_type": "application/json",
+  "body_input": "JSON string",
+  "body_content": "{\"q\":\"{{company_name}} company overview revenue operations\"}"
+}
