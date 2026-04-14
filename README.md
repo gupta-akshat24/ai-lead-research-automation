@@ -125,14 +125,11 @@ Manual Cost: 2 hours of salary
 
 ## 👤 Built By
 gupta-akshat24
-Relationship Manager
-Bank,   Branch
 
-Currently transitioning into 
-AI GTM Engineering role
+Relationship Manager,
 
-🔗 LinkedIn: [your linkedin]
-📧 Email: [your email]
+Bank
+
 
 ---
 
