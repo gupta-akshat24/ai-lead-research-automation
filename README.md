@@ -31,7 +31,9 @@ Automatically researches any Indian company and generates a personalized   Bank 
 ## ⚙️ How It Works
 ---
 [Company Name Input]
+
 ↓
+
 [13 Google Searches via Serper]
 
 Company Overview
@@ -45,15 +47,21 @@ GST Volume
 Expansion Plans
 Loan Needs
 
+
 Dealer Network
 
 ↓
 
 [OpenAI Analyzes All Data]
+
 ↓
+
 [Generates Personalized Email]
+
 ↓
+
 [Delivered to Gmail Inbox]
+
 
 
 ## 📧 Sample Output
